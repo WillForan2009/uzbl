@@ -385,7 +385,7 @@ set default_mode = command
 # === Post-load misc commands  ===============================================
 
 # Set the "home" page.
-set uri = fav4.org
+set uri = about:blank
 
 # ==  my changes=====================
 @cbind  <Ctrl>u  = spawn @scripts_dir/load_bookmarklet.sh
@@ -395,7 +395,7 @@ menu_link_add Add to Bookmarklets = spawn @scripts_dir/insert_bookmarklet.sh \@S
 set follow_hint_keys = asdfghjkl;
 
 #dynZoom by Robert Manea
-@on_event GEOMETRY_CHANGED script @scripts_dir/dynzoom.js
+#@on_event GEOMETRY_CHANGED script @scripts_dir/dynzoom.js
 
 #vim like esc
 @bind   <Ctrl>[     = @set_mode
