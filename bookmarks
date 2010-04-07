@@ -1,18 +1,21 @@
-http://slashdot.org/ news
-http://www.google.com/reader/view/ rss
-http://www.reddit.com/ hive
-http://delicious.com/ hive
-http://news.ycombinator.com/ hive
-http://lifehacker.com/ nerd
-http://digg.com/ hive
+http://slashdot.org/ news timesink
+http://www.reddit.com/ hive timesink
+http://delicious.com/ hive timesink
+http://news.ycombinator.com/ hacker hive timesink
+http://lifehacker.com/ nerd timesink
+http://digg.com/ hive timesink
 https://mail.google.com/mail/?logout&hl=en mail
 https://gmail.com mail
 http://posterous.com/manage/ blog
+http://www.google.com/reader/view/ rss
 https://www.google.com/analytics/settings/?et=reset&hl=en stats
 https://www.google.com/analytics/reporting/networks?id=26611107&pdr=20100201-20100303&cmp=average#lts=1267755925118 stats
 https://www.google.com/voice phone sms
-http://eztv.it/ 
+http://vcdq.com/ download movies
+http://eztv.it/ download
 http://www.tvrage.com/index.php tv
 http://www.hulu.com/ tv
 http://192.168.1.130/rtorrent/ download
 http://www.last.fm/ music
+http://www.what.cd/ music download
+
